@@ -1,0 +1,38 @@
+23-04-16 20:54:58.016 : Model path: model_zoo/maybe_final_mine_latest_G.pth
+23-04-16 20:54:58.017 : Params number: 557074
+23-04-16 20:54:58.017 : model_name:maybe_final_mine_latest_G, image sigma:25
+23-04-16 20:54:58.018 : testsets/set12
+23-04-16 20:55:03.527 : 01.png - PSNR: 29.88 dB; SSIM: 0.8611.
+23-04-16 20:55:04.148 : 02.png - PSNR: 32.66 dB; SSIM: 0.8515.
+23-04-16 20:55:05.262 : 03.png - PSNR: 30.50 dB; SSIM: 0.8687.
+23-04-16 20:55:06.027 : 04.png - PSNR: 28.85 dB; SSIM: 0.8563.
+23-04-16 20:55:06.807 : 05.png - PSNR: 30.14 dB; SSIM: 0.9089.
+23-04-16 20:55:07.847 : 06.png - PSNR: 28.90 dB; SSIM: 0.8601.
+23-04-16 20:55:08.753 : 07.png - PSNR: 29.15 dB; SSIM: 0.8504.
+23-04-16 20:55:09.609 : 08.png - PSNR: 32.03 dB; SSIM: 0.8559.
+23-04-16 20:55:10.781 : 09.png - PSNR: 29.10 dB; SSIM: 0.8537.
+23-04-16 20:55:11.588 : 10.png - PSNR: 29.92 dB; SSIM: 0.7979.
+23-04-16 20:55:12.589 : 11.png - PSNR: 29.87 dB; SSIM: 0.8101.
+23-04-16 20:55:13.599 : 12.png - PSNR: 29.77 dB; SSIM: 0.8153.
+23-04-16 20:55:13.615 : Average PSNR/SSIM(RGB) - set12_maybe_final_mine_latest_G - PSNR: 30.06 dB; SSIM: 0.8491
+23-04-25 04:42:43.999 : Model path: model_zoo/maybe_final_mine_latest_G.pth
+23-04-25 04:42:44.289 : Params number: 557074
+23-04-25 04:42:44.290 : model_name:maybe_final_mine_latest_G, image sigma:25
+23-04-25 04:42:44.290 : testsets/set12
+23-04-25 04:44:14.464 : Model path: model_zoo/maybe_final_mine_latest_G.pth
+23-04-25 04:44:15.164 : Params number: 557074
+23-04-25 04:44:15.170 : model_name:maybe_final_mine_latest_G, image sigma:25
+23-04-25 04:44:15.170 : testsets/set12
+23-04-25 04:44:24.412 : 01.png - PSNR: 29.88 dB; SSIM: 0.8611.
+23-04-25 04:44:26.364 : 02.png - PSNR: 32.66 dB; SSIM: 0.8515.
+23-04-25 04:44:28.381 : 03.png - PSNR: 30.50 dB; SSIM: 0.8687.
+23-04-25 04:44:30.255 : 04.png - PSNR: 28.85 dB; SSIM: 0.8563.
+23-04-25 04:44:32.147 : 05.png - PSNR: 30.14 dB; SSIM: 0.9089.
+23-04-25 04:44:34.070 : 06.png - PSNR: 28.90 dB; SSIM: 0.8601.
+23-04-25 04:44:35.710 : 07.png - PSNR: 29.15 dB; SSIM: 0.8504.
+23-04-25 04:44:37.317 : 08.png - PSNR: 32.03 dB; SSIM: 0.8559.
+23-04-25 04:44:38.781 : 09.png - PSNR: 29.10 dB; SSIM: 0.8537.
+23-04-25 04:44:40.255 : 10.png - PSNR: 29.92 dB; SSIM: 0.7979.
+23-04-25 04:44:41.969 : 11.png - PSNR: 29.87 dB; SSIM: 0.8101.
+23-04-25 04:44:43.643 : 12.png - PSNR: 29.77 dB; SSIM: 0.8153.
+23-04-25 04:44:44.237 : Average PSNR/SSIM(RGB) - set12_maybe_final_mine_latest_G - PSNR: 30.06 dB; SSIM: 0.8491
